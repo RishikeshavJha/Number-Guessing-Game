@@ -1,14 +1,14 @@
 # Number Guessing Game 🎯
 A simple Python game where users guess a randomly generated number within a limited number of attempts.
 ## Table of Contents
-```
+```md
 - [About](#about)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 ```
-## About 📝
+## 📌 About
 ```
 This is a command-line Python game where the user tries to guess a number between 1 and 100. 
 The game has two difficulty levels:
