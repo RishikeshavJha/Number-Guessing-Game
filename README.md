@@ -14,10 +14,10 @@ This is a command-line Python game where the user tries to guess a number betwee
 The game has two difficulty levels:
 - **Easy** (10 attempts)
 - **Hard** (5 attempts)
-```
 The program provides hints to guide the player towards the correct number.
-```md
+```
 ## Installation 🛠️
+```md
 1. Clone this repository:  
    git clone https://github.com/your-username/number-guessing-game.git
 2. Navigate to the project folder:
