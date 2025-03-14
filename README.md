@@ -10,7 +10,7 @@ A simple Python game where users guess a randomly generated number within a limi
 - [Contributing](#contributing)
 - [License](#license)
 
-## About
+## 📌About
 
 This is a command-line Python game where the user tries to guess a number between 1 and 100. The game has two difficulty levels:
 
@@ -19,7 +19,7 @@ This is a command-line Python game where the user tries to guess a number betwee
 
 The program provides hints to guide the player towards the correct number.
 
-## Installation
+## Installation🛠️
 
 1. Clone this repository:
    ```bash
@@ -30,21 +30,24 @@ The program provides hints to guide the player towards the correct number.
 3. Run the Python script:
    ```bash
    python game.py
-## Usage
-Run the script.
-Choose a difficulty level (easy or hard).
-Enter your guesses based on the hints.
-Try to guess the correct number before running out of attempts!
-## Contributing
-Contributions are welcome! If you’d like to improve this project:
 
-## Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request.
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Usage🎮
+1. Run the script.
+2. Choose a difficulty level (easy or hard).
+3. Enter your guesses based on the hints.
+4. Try to guess the correct number before running out of attempts!
+
+## Contributing🤝
+CContributions are welcome!  
+If you’d like to improve this project:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m "Added new feature"`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## License📜
+This project is licensed under the MIT License. See `LICENSE` for more details.
 ```pgsql
 By implementing these changes, your README will be more readable and user-friendly. If you need further assistance, feel free to ask!
 ::contentReference[oaicite:0]{index=0}
